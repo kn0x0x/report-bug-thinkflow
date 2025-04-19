@@ -100,7 +100,7 @@ print("Backend developer be like: 'WHY ARE YOU RUNNING???'")
 2. Thực hiện xác thực người dùng ở tất cả các API endpoints - "Không xác thực = Mời hacker vào nhà"
 3. Sử dụng UUID ngẫu nhiên thay vì ID dự đoán được - "Đoán mò ID dễ hơn cả đoán tỉ số bóng đá"
 
-![Fix It Now](https://i.imgflip.com/7rftcu.jpg)
+
 
 ## Kết luận
 Lỗ hổng IDOR này nghiêm trọng tới mức dev đọc xong báo cáo có khi phải xin nghỉ phép 1 tuần để hoàn hồn. Khách hàng cần khắc phục ngay nếu không muốn thấy dữ liệu của mình xuất hiện trên dark web với giá 2 đô la.
